@@ -43,7 +43,6 @@ Convert a native type to a string.
 * `delimiter`: A delimiter to used to join arrays.
 * `json`: A boolean indicating that complex objects should be serialized to JSON.
 
-
 ## License
 
 Everything is [MIT](http://en.wikipedia.org/wiki/MIT_License). Read the [license](/LICENSE) if you feel inclined.
